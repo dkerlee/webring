@@ -1,6 +1,6 @@
 {
     "title": "localmesh",
-    "description": "get some meshes going out in your neighborhood",
+    "description": "get some meshes going in your neighborhood",
     "image": "localmesh.png",
     "url": "https://localmesh.org",
     "repo": "https://github.com/dkerlee/webring",
